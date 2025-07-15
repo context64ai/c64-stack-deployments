@@ -8,7 +8,7 @@
 
 This folder contains detailed instructions to deploy the C64 Stack for **[Microsoft Azure](https://azure.microsoft.com)** using Helm Charts.
 
-For more information, please refer to the project [README](https://github.com/context64ai/c64-stack-deployments/README.md).
+For more information, please refer to the project [README](https://github.com/context64ai/c64-stack-deployments/blob/main/README.md).
 
 ## 📋 Requirements
 

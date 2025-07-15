@@ -8,7 +8,7 @@
 
 This folder contains detailed instructions to deploy the C64 Stack On-Prem using Helm Charts.
 
-For more information, please refer to the project [README](https://github.com/context64ai/c64-stack-deployments/README.md).
+For more information, please refer to the project [README](https://github.com/context64ai/c64-stack-deployments/blob/main/README.md).
 
 ## 📋 Requirements
 
@@ -119,11 +119,11 @@ To fully remove secrets, run the following command:
 These tools are not required, but can improve workflow, automation, and monitoring:
 
 - 🧪 **K9s** – Terminal-based UI for Kubernetes cluster exploration  
-  👉 [https://k9scli.io/](https://k9scli.io/)
+  👉 [https://k9scli.io](https://k9scli.io)
 - 📊 **Lens** – Kubernetes IDE for managing multiple clusters visually  
   👉 [https://k8slens.dev](https://k8slens.dev)
 - 🛠️ **Argo CLI** – To interact with ArgoCD from the terminal  
-  👉 [https://argo-cd.readthedocs.io/en/stable/user-guide/commands/](https://argo-cd.readthedocs.io/en/stable/user-guide/commands/)
+  👉 [https://argo-workflows.readthedocs.io](https://argo-workflows.readthedocs.io/en/latest/walk-through/argo-cli/)
 
 ### 🛠️ Support
 

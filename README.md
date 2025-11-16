@@ -79,7 +79,7 @@ For other questions related to this project, contact github@c64.ai
 This project is licensed under the GNU GENERAL PUBLIC LICENSE – see the [LICENSE](LICENSE) file for details.
 
 
-## External Software 🎯
+## 🎯 External Software 
 
 This project is based on the following powerful software:
 
@@ -94,14 +94,3 @@ This project is based on the following powerful software:
 ![Weaviate](https://img.shields.io/badge/Weaviate-20C997?style=flat&logo=weaviate&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
 
-
-
-
-
-
-
-
-
-
-## Status
-Active development ✅
